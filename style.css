@@ -1,0 +1,13 @@
+.page-layout {
+  display: flex;
+  gap: 20px;            
+  align-items: flex-start; 
+}
+.connect-column {
+  flex: 1;              
+  min-width: 250px;     
+}
+.projects-column {
+  flex: 2;              
+}
+
